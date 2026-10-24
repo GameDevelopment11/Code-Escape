@@ -3,6 +3,7 @@
 **Tagline: Solve puzzles, write code, and break free!**
 
 ## Game Concept
+![Code Escape concept](1m.PNG)
 
 Code Escape is a 2D puzzle-adventure game in which the player is trapped inside a digital computer system taken over by a mysterious virus. To escape, the player progresses through rooms, solves puzzles using programming commands, and activates different mechanisms. As the game progresses, players learn variables, conditions, and loops through gameplay rather than traditional lessons. The ultimate objective is to reach the control room, disable the virus, and unlock the exit.
 
@@ -165,6 +166,7 @@ These are suggested search terms for your market review; only list them as searc
 ### 1. CodeCombat
 
 **Official website:** https://codecombat.com/
+![while True learn screenshot](4m.PNG)
 
 CodeCombat is an educational adventure game in which players write real code to control a character, progress through levels, and overcome challenges.
 
@@ -178,6 +180,8 @@ CodeCombat is an educational adventure game in which players write real code to 
 
 **Official website:** https://tomorrowcorporation.com/humanresourcemachine
 
+![CodeCombat screenshot](2m.PNG)
+
 Human Resource Machine is a puzzle game in which players program an office worker to perform tasks through sequences of instructions.
 
 **Similarity:** Both games emphasize ordered commands, algorithmic thinking, and problem-solving.
@@ -189,6 +193,8 @@ Human Resource Machine is a puzzle game in which players program an office worke
 ### 3. while True: learn()
 
 **Store page:** https://store.steampowered.com/app/619150/
+
+![Human Resource Machine screenshot](3m.PNG)
 
 while True: learn() is a puzzle game built around machine-learning and artificial-intelligence concepts. Players solve problems by arranging visual components and diagrams.
 
