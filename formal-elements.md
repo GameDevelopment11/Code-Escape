@@ -8,7 +8,6 @@ Code Escape is a 2D puzzle-adventure game in which the player is trapped inside 
 
 **Platform:** Personal computers and web browsers, controlled using a keyboard and mouse.
 
-**Concept screenshot:** Add an original mockup showing the player character, a locked door, switches, an enemy robot, and a programming-command panel.
 
 ---
 
